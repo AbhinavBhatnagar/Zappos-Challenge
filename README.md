@@ -1,4 +1,4 @@
 api-zappos
 ==========
 
-challenge
+This code is for the challenge problem offered by Zappos.
